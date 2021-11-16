@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **twingood@protonmail.com**
 
-- ⚡ Fun fact **A sea lion is the first nonhuman mammal with a proven ability to keep a beat.**
+- ⚡ Fun fact **The sea lion is the first nonhuman mammal with a proven ability to keep a beat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
