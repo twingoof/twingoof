@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my graduation Project<br>💼 I’m looking for the 4th DragonBall<br>🌱 I’m currently learning VueTS & ASP .NET<br>⚡ Fun fact: I can drink 1L of coffee and still be tired
+🔭 I’m a student at EPITECH currently working on my graduation Project<br>💼 I’m looking for the 5th DragonBall (aka my last year at EPITECH)<br>🌱 I’m currently learning Vue & ASP .NET<br>⚡ Fun fact: I can drink 1L of coffee and still be tired
 
 
 # 💻 Tech Stack:
