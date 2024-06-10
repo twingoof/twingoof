@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Pierrick from Nantes, FR<br><br>- 🔭 I’m working as a C++ embedded developper<br>- 📚 I'm currently learning how to declare taxes alone<br>- ⚡ In my free time I'm looking for my lost socks inside the washing machine</p>
+<p align="left">I'm Pierrick from Nantes, FR<br><br>- 🔭 I’m working as a C# software devlopper<br>- 📚 I'm currently learning how to declare taxes alone<br>- ⚡ In my free time I'm looking for my lost socks inside the washing machine</p>
 
 ###
 
