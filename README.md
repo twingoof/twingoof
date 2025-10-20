@@ -6,7 +6,6 @@ C/C++ & C# Developer
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [twingood@proton.me](mailto:twingood@proton.me)
-* 🧠  I'm learning Rust
 
 <a href="https://www.github.com/twingoof" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/twingoof?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
